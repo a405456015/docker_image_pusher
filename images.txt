@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent:4.6.5-libtorrentv1
 dreamacro/clash-premium:latest
+emby/embyserver
+
