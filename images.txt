@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 docker pull linuxserver/qbittorrent:4.6.5-libtorrentv1
+docker pull dreamacro/clash-premium:latest
